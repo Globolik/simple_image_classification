@@ -1,0 +1,9 @@
+__pycache__/
+__test.py
+_diff_img.txt
+diff_img/diff_img_test.txt
+diff_img_test.txt
+mean_std.txt
+model.pth
+model_12e_lr_decay_s2_g06.pth
+model_16e.pth
